@@ -78,19 +78,19 @@ Tooltips display detailed match-wise stats.
 
 # Snapshot of Dashboard (Power BI Service)
 
-Final 11
+
 ![final_11](https://github.com/vandanagattupelli30/Cricket-Data-Analytics/blob/main/final%2011.png)
 
-Power Hitters
+
 ![power_hitters](https://github.com/vandanagattupelli30/Cricket-Data-Analytics/blob/main/powerHitters.png)
 
-Anchors
+
 ![anchors](https://github.com/vandanagattupelli30/Cricket-Data-Analytics/blob/main/anchors.png)
 
-Finishers
+
 ![finishers](https://github.com/vandanagattupelli30/Cricket-Data-Analytics/blob/main/finishers.png)
 
-Specialist Fast Bowlers
+
 ![specialist_fast_bowlers](https://github.com/vandanagattupelli30/Cricket-Data-Analytics/blob/main/spec_fast_bowlers.png)
 
 # Insights
