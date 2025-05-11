@@ -1,5 +1,4 @@
-# Airlines-Dashboard
-
+# Cricket-Data-Analytics
 ### Dashboard Link : https://app.powerbi.com/links/wRS3ocSB45?ctid=610fd202-9529-4e97-adcc-43f743489e09&pbi_source=linkShare
 
 ## Problem Statement
@@ -122,7 +121,7 @@ Insights revealed how stage-wise performance changed player rankings
 
     Economy Rate = DIVIDE([Runs Conceded], ([Balls Bowled]/6), 0)
 
-# Data Sources
+## Data Sources
 - Match & Player Data: ESPNcricinfo
 
 - Scraping Tool: Bright Data
@@ -131,7 +130,7 @@ Insights revealed how stage-wise performance changed player rankings
 
 - Visualization: Microsoft Power BI
 
-# Some Challenges Faced
+## Some Challenges Faced
 
 - Name mismatches across data sets (e.g. abbreviations, special characters).
 
@@ -139,7 +138,7 @@ Insights revealed how stage-wise performance changed player rankings
 
 - Match phase identification (solved using logic columns in Power BI).
 
-# Final Output
+## Final Output
 A fully interactive Power BI dashboard that:
 
 Helps pick the Best XI based on actual stats.
@@ -148,7 +147,7 @@ Allows dynamic filtering by team, match stage, and player type.
 
 Offers data-driven storytelling for cricket professionals and enthusiasts.
 
-# Future Scope
+## Future Scope
 - Integrate with live APIs for real-time analytics.
 
 - Add ML-based predictions (e.g., winning probability, fantasy points).
@@ -157,7 +156,7 @@ Offers data-driven storytelling for cricket professionals and enthusiasts.
 
 - Make it mobile-responsive for tablets and smartphones.
 
-# References
+### References
 - Codebasics YouTube Channel
 - Power BI official Documentation
 - Pandas Documentation
