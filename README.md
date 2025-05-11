@@ -1,4 +1,4 @@
-# Airlines-Dashboard
+# Cricket-Data-Analytics
 
 ### Dashboard Link : https://app.powerbi.com/links/wRS3ocSB45?ctid=610fd202-9529-4e97-adcc-43f743489e09&pbi_source=linkShare
 
