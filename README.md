@@ -77,7 +77,7 @@ Tooltips display detailed match-wise stats.
 
 
 # Snapshot of Dashboard (Power BI Service)
-
+Final 11
 ![dashboard_snapo](https://github.com/vandanagattupelli30/Cricket-Data-Analytics/blob/main/final%2011.png)
 
  
